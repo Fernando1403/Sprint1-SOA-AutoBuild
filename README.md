@@ -79,7 +79,7 @@ autobuild-ai/
 ## 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/autobuild-ai.git
+git clone https://github.com/Fernando1403/Sprint1-SOA-AutoBuild
 ```
 
 ---
