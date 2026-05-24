@@ -1,0 +1,8 @@
+package com.autobuildai.exception;
+
+public class ResourceNotFoundException extends RuntimeException {
+
+    public ResourceNotFoundException(String message){
+        super(message);
+    }
+}
